@@ -18,10 +18,6 @@ A responsive fan website dedicated to Royal Challengers Bengaluru (RCB), built u
 * CSS
 * JavaScript
 
-## 🚀 Live Demo
-
-https://gulapalasushma.github.io/IPL-Team-Website/
-
 ## 👩‍💻 Author
 
 Gulapala Sushma
